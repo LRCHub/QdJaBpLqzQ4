@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "花と記憶",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-24T07:28:13.616339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花と記憶",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/01_花と記憶_Orangestar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花と記憶 - Flowers and Memories",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/02_花と記憶_-_Flowers_and_Memories_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花と記憶",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_花と記憶_Orangestar.txt"
+    }
+  ]
+}
